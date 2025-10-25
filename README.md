@@ -16,14 +16,14 @@ DEFINE  →  MEASURE  →  ANALYZE  →  IMPROVE  →  CONTROL
 
 ### ⚙️ Prototype Tools (Phase 1)
 
-| **Stage** | **Tool Name** | **Purpose** | **AI Output Example** |
-|------------|----------------|--------------|------------------------|
-| 🧭 **Define** | **AI-NPS Analyzer** | Capture customer sentiment and Net Promoter Score | “Top 3 themes: waiting time, friendliness, cleanliness” |
-| ⏱️ **Measure** | **Cycle Time Tracker** | Record and visualize process or service lead time | Histogram + average time trend |
-| 🧠 **Analyze** | **AI-5 Whys / RCA Assistant** | Identify root causes using guided AI reasoning | “Root cause: unclear work instruction” |
-| 🔄 **Improve** | **Action Tracker (CPM Mini)** | Log corrective/preventive actions and monitor progress | Before/After comparison chart |
-| 🧹 **Control** | **5S Self-Audit Tool** | Sustain discipline and visual housekeeping | 5S trend scorecard |
-| 🤖 **AI Layer** | **AI-Insight Panel** | Integrate all tools and predict improvement impact | “AI Suggests: Reduce step 3 delay → +8% satisfaction” |
+| **Stage**    | **Tool Name**   | **Purpose**   | **AI Output Example**   |
+|------------  |---------------- |-------------- |------------------------ |
+| 🧭 **Define**    | **AI-NPS Analyzer** | Capture customer sentiment and Net Promoter Score | “Top 3 themes: waiting time, friendliness, cleanliness” |
+| ⏱️ **Measure**   | **Cycle Time Tracker** | Record and visualize process or service lead time | Histogram + average time trend |
+| 🧠 **Analyze**   | **AI-5 Whys / RCA Assistant** | Identify root causes using guided AI reasoning | “Root cause: unclear work instruction” |
+| 🔄 **Improve**   | **Action Tracker (CPM Mini)** | Log corrective/preventive actions and monitor progress | Before/After comparison chart |
+| 🧹 **Control**   | **5S Self-Audit Tool** | Sustain discipline and visual housekeeping | 5S trend scorecard |
+| 🤖 **AI Layer**  | **AI-Insight Panel** | Integrate all tools and predict improvement impact | “AI Suggests: Reduce step 3 delay → +8% satisfaction” |
 
 
 🎯 Vision & Mission
