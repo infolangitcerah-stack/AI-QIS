@@ -14,6 +14,21 @@ DEFINE  →  MEASURE  →  ANALYZE  →  IMPROVE  →  CONTROL
    ↓                                          ↑
          AI-INSIGHT LAYER (Continuous Learning)
 
+### 🧭 DEFINE PHASE — Project Charter  
+
+The **Define Phase** establishes the strategic foundation of the **AI Quality Intelligence Suite (AI-QIS)**.  
+It clarifies *why* the project exists, *what problem it solves*, and *how success will be measured*.  
+
+📜 **Deliverable:**  
+[View Project Charter →](Define_Project_Charter/Project_Charter.md)
+
+**Highlights:**  
+- Establishes business case, goals, and scope  
+- Aligns AI-QIS roadmap to the DMAIC structure  
+- Provides the foundation for the **Measure Phase (AI-NPS Analyzer)**  
+
+> “DEFINE sets the direction. MEASURE validates it. ANALYZE explains it. IMPROVE enhances it. CONTROL sustains it.”
+
 ### ⚙️ Prototype Tools (Phase 1)
 
 
